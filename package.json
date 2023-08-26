@@ -1,0 +1,12 @@
+{
+  "name": "sql-lite-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JNickBaughan/sql-lite-test.git",
+  "author": "J. Nick Baughan <JNickBaughan@Gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@databases/sqlite": "^4.0.2",
+    "sqlite3": "^5.1.6"
+  }
+}
